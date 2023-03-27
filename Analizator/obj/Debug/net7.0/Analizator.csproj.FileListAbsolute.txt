@@ -1,0 +1,15 @@
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\bin\Debug\net7.0\Analizator.exe
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\bin\Debug\net7.0\Analizator.deps.json
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\bin\Debug\net7.0\Analizator.runtimeconfig.json
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\bin\Debug\net7.0\Analizator.dll
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\bin\Debug\net7.0\Analizator.pdb
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\obj\Debug\net7.0\Analizator.csproj.AssemblyReference.cache
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\obj\Debug\net7.0\Analizator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\obj\Debug\net7.0\Analizator.AssemblyInfoInputs.cache
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\obj\Debug\net7.0\Analizator.AssemblyInfo.cs
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\obj\Debug\net7.0\Analizator.csproj.CoreCompileInputs.cache
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\obj\Debug\net7.0\Analizator.dll
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\obj\Debug\net7.0\refint\Analizator.dll
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\obj\Debug\net7.0\Analizator.pdb
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\obj\Debug\net7.0\Analizator.genruntimeconfig.cache
+C:\Users\moyfo\RiderProjects\Analizator\Analizator\obj\Debug\net7.0\ref\Analizator.dll
